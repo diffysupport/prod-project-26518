@@ -2,7 +2,7 @@ basic:
     name: 'https://www.eckankar.org'
     environments:
         production: 'https://www.eckankar.org'
-        staging: 'https://www.eckankar.org'
+        staging: 'https://dev.eckankar.org'
         development: ''
     breakpoints:
         - 640
