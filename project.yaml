@@ -50,7 +50,7 @@ basic:
         compare_with_fresh: production
 advanced:
     mask: ''
-    remove: ''
+    remove: ".vim-video iframe\naudio"
     isolate: ''
     delay: 15
     scroll: true
